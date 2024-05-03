@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @zakthebountyhunter
 - 👀 I’m interested in games 
-- 🌱 I’m currently learning codeing 
+- 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me: Strodestrode@gmal.com
-- 😄 Pronouns: man
+- 😄 Pronouns: he/man
+- 
 - ⚡ Fun fact: iam fun to hang out with
 
 <!---
